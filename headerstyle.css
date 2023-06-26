@@ -1,0 +1,64 @@
+
+.main-div
+{
+  display: flex;
+ align-items: center;
+  height: 70px;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.ul
+{
+  list-style: none;
+  gap: 25px;
+  display: flex;
+  font-family: 'SamsungOne 400';
+  font-weight: bold;
+  font-size: 14px;
+  color: black;
+} 
+
+.left-section
+{
+  margin-left: 43px;
+}
+.middle-section
+{
+  display: flex;
+  align-items: center;
+  margin-left: 36px;
+
+}
+
+.left-section img{
+  padding-top: 8px;
+ 
+}
+
+.right-section
+{
+  display: flex;
+ align-items: center;
+margin-left: 135px;
+
+}
+
+.right-section img
+{
+  padding: 10px;
+  height: 23px;
+}
+.img
+{
+  margin-left: 40px;
+}
+.first-div
+{
+  margin-left: 35px;
+}
+
